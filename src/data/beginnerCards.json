@@ -1,0 +1,902 @@
+[
+  {
+    "chinese": "你好",
+    "traditional": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "hello"
+  },
+  {
+    "chinese": "再见",
+    "traditional": "再見",
+    "pinyin": "zài jiàn",
+    "english": "goodbye"
+  },
+  {
+    "chinese": "谢谢",
+    "traditional": "謝謝",
+    "pinyin": "xiè xiè",
+    "english": "thank you"
+  },
+  {
+    "chinese": "不客气",
+    "traditional": "不客氣",
+    "pinyin": "bù kè qì",
+    "english": "you are welcome"
+  },
+  {
+    "chinese": "对不起",
+    "traditional": "對不起",
+    "pinyin": "duì bù qǐ",
+    "english": "sorry"
+  },
+  {
+    "chinese": "没关系",
+    "traditional": "沒關係",
+    "pinyin": "méi guān xì",
+    "english": "no problem"
+  },
+  {
+    "chinese": "请",
+    "traditional": "請",
+    "pinyin": "qǐng",
+    "english": "please"
+  },
+  {
+    "chinese": "是",
+    "traditional": "是",
+    "pinyin": "shì",
+    "english": "is / am / are / yes"
+  },
+  {
+    "chinese": "不",
+    "traditional": "不",
+    "pinyin": "bù",
+    "english": "no / not"
+  },
+  {
+    "chinese": "好",
+    "traditional": "好",
+    "pinyin": "hǎo",
+    "english": "good / well"
+  },
+  {
+    "chinese": "早上好",
+    "traditional": "早上好",
+    "pinyin": "zǎo shàng hǎo",
+    "english": "good morning"
+  },
+  {
+    "chinese": "晚上好",
+    "traditional": "晚上好",
+    "pinyin": "wǎn shàng hǎo",
+    "english": "good evening"
+  },
+  {
+    "chinese": "晚安",
+    "traditional": "晚安",
+    "pinyin": "wǎn ān",
+    "english": "good night"
+  },
+  {
+    "chinese": "欢迎",
+    "traditional": "歡迎",
+    "pinyin": "huān yíng",
+    "english": "welcome"
+  },
+  {
+    "chinese": "拜拜",
+    "traditional": "拜拜",
+    "pinyin": "bài bài",
+    "english": "bye bye"
+  },
+  {
+    "chinese": "我",
+    "traditional": "我",
+    "pinyin": "wǒ",
+    "english": "I / me"
+  },
+  {
+    "chinese": "你",
+    "traditional": "你",
+    "pinyin": "nǐ",
+    "english": "you"
+  },
+  {
+    "chinese": "他",
+    "traditional": "他",
+    "pinyin": "tā",
+    "english": "he / him"
+  },
+  {
+    "chinese": "她",
+    "traditional": "她",
+    "pinyin": "tā",
+    "english": "she / her"
+  },
+  {
+    "chinese": "它",
+    "traditional": "它",
+    "pinyin": "tā",
+    "english": "it"
+  },
+  {
+    "chinese": "我们",
+    "traditional": "我們",
+    "pinyin": "wǒ men",
+    "english": "we / us"
+  },
+  {
+    "chinese": "你们",
+    "traditional": "你們",
+    "pinyin": "nǐ men",
+    "english": "you (plural)"
+  },
+  {
+    "chinese": "他们",
+    "traditional": "他們",
+    "pinyin": "tā men",
+    "english": "they / them"
+  },
+  {
+    "chinese": "这",
+    "traditional": "這",
+    "pinyin": "zhè",
+    "english": "this"
+  },
+  {
+    "chinese": "那",
+    "traditional": "那",
+    "pinyin": "nà",
+    "english": "that"
+  },
+  {
+    "chinese": "一",
+    "traditional": "一",
+    "pinyin": "yī",
+    "english": "one"
+  },
+  {
+    "chinese": "二",
+    "traditional": "二",
+    "pinyin": "èr",
+    "english": "two"
+  },
+  {
+    "chinese": "三",
+    "traditional": "三",
+    "pinyin": "sān",
+    "english": "three"
+  },
+  {
+    "chinese": "四",
+    "traditional": "四",
+    "pinyin": "sì",
+    "english": "four"
+  },
+  {
+    "chinese": "五",
+    "traditional": "五",
+    "pinyin": "wǔ",
+    "english": "five"
+  },
+  {
+    "chinese": "六",
+    "traditional": "六",
+    "pinyin": "liù",
+    "english": "six"
+  },
+  {
+    "chinese": "七",
+    "traditional": "七",
+    "pinyin": "qī",
+    "english": "seven"
+  },
+  {
+    "chinese": "八",
+    "traditional": "八",
+    "pinyin": "bā",
+    "english": "eight"
+  },
+  {
+    "chinese": "九",
+    "traditional": "九",
+    "pinyin": "jiǔ",
+    "english": "nine"
+  },
+  {
+    "chinese": "十",
+    "traditional": "十",
+    "pinyin": "shí",
+    "english": "ten"
+  },
+  {
+    "chinese": "百",
+    "traditional": "百",
+    "pinyin": "bǎi",
+    "english": "hundred"
+  },
+  {
+    "chinese": "千",
+    "traditional": "千",
+    "pinyin": "qiān",
+    "english": "thousand"
+  },
+  {
+    "chinese": "零",
+    "traditional": "零",
+    "pinyin": "líng",
+    "english": "zero"
+  },
+  {
+    "chinese": "两",
+    "traditional": "兩",
+    "pinyin": "liǎng",
+    "english": "two (quantity)"
+  },
+  {
+    "chinese": "半",
+    "traditional": "半",
+    "pinyin": "bàn",
+    "english": "half"
+  },
+  {
+    "chinese": "吃",
+    "traditional": "吃",
+    "pinyin": "chī",
+    "english": "to eat"
+  },
+  {
+    "chinese": "喝",
+    "traditional": "喝",
+    "pinyin": "hē",
+    "english": "to drink"
+  },
+  {
+    "chinese": "去",
+    "traditional": "去",
+    "pinyin": "qù",
+    "english": "to go"
+  },
+  {
+    "chinese": "来",
+    "traditional": "來",
+    "pinyin": "lái",
+    "english": "to come"
+  },
+  {
+    "chinese": "看",
+    "traditional": "看",
+    "pinyin": "kàn",
+    "english": "to look / to watch"
+  },
+  {
+    "chinese": "听",
+    "traditional": "聽",
+    "pinyin": "tīng",
+    "english": "to listen"
+  },
+  {
+    "chinese": "说",
+    "traditional": "說",
+    "pinyin": "shuō",
+    "english": "to speak / to say"
+  },
+  {
+    "chinese": "读",
+    "traditional": "讀",
+    "pinyin": "dú",
+    "english": "to read"
+  },
+  {
+    "chinese": "写",
+    "traditional": "寫",
+    "pinyin": "xiě",
+    "english": "to write"
+  },
+  {
+    "chinese": "学",
+    "traditional": "學",
+    "pinyin": "xué",
+    "english": "to learn / to study"
+  },
+  {
+    "chinese": "工作",
+    "traditional": "工作",
+    "pinyin": "gōng zuò",
+    "english": "to work / work"
+  },
+  {
+    "chinese": "买",
+    "traditional": "買",
+    "pinyin": "mǎi",
+    "english": "to buy"
+  },
+  {
+    "chinese": "卖",
+    "traditional": "賣",
+    "pinyin": "mài",
+    "english": "to sell"
+  },
+  {
+    "chinese": "要",
+    "traditional": "要",
+    "pinyin": "yào",
+    "english": "to want / to need"
+  },
+  {
+    "chinese": "有",
+    "traditional": "有",
+    "pinyin": "yǒu",
+    "english": "to have / there is"
+  },
+  {
+    "chinese": "没有",
+    "traditional": "沒有",
+    "pinyin": "méi yǒu",
+    "english": "do not have"
+  },
+  {
+    "chinese": "知道",
+    "traditional": "知道",
+    "pinyin": "zhī dào",
+    "english": "to know"
+  },
+  {
+    "chinese": "喜欢",
+    "traditional": "喜歡",
+    "pinyin": "xǐ huān",
+    "english": "to like"
+  },
+  {
+    "chinese": "爱",
+    "traditional": "愛",
+    "pinyin": "ài",
+    "english": "to love"
+  },
+  {
+    "chinese": "想",
+    "traditional": "想",
+    "pinyin": "xiǎng",
+    "english": "to think / to want to"
+  },
+  {
+    "chinese": "做",
+    "traditional": "做",
+    "pinyin": "zuò",
+    "english": "to do / to make"
+  },
+  {
+    "chinese": "给",
+    "traditional": "給",
+    "pinyin": "gěi",
+    "english": "to give"
+  },
+  {
+    "chinese": "用",
+    "traditional": "用",
+    "pinyin": "yòng",
+    "english": "to use"
+  },
+  {
+    "chinese": "住",
+    "traditional": "住",
+    "pinyin": "zhù",
+    "english": "to live"
+  },
+  {
+    "chinese": "睡觉",
+    "traditional": "睡覺",
+    "pinyin": "shuì jiào",
+    "english": "to sleep"
+  },
+  {
+    "chinese": "什么",
+    "traditional": "什麼",
+    "pinyin": "shén me",
+    "english": "what"
+  },
+  {
+    "chinese": "谁",
+    "traditional": "誰",
+    "pinyin": "shéi",
+    "english": "who"
+  },
+  {
+    "chinese": "哪里",
+    "traditional": "哪裡",
+    "pinyin": "nǎ lǐ",
+    "english": "where"
+  },
+  {
+    "chinese": "哪个",
+    "traditional": "哪個",
+    "pinyin": "nǎ gè",
+    "english": "which"
+  },
+  {
+    "chinese": "为什么",
+    "traditional": "為什麼",
+    "pinyin": "wèi shén me",
+    "english": "why"
+  },
+  {
+    "chinese": "怎么",
+    "traditional": "怎麼",
+    "pinyin": "zěn me",
+    "english": "how"
+  },
+  {
+    "chinese": "多少",
+    "traditional": "多少",
+    "pinyin": "duō shǎo",
+    "english": "how much / how many"
+  },
+  {
+    "chinese": "几",
+    "traditional": "幾",
+    "pinyin": "jǐ",
+    "english": "how many (small numbers)"
+  },
+  {
+    "chinese": "什么时候",
+    "traditional": "什麼時候",
+    "pinyin": "shén me shí hòu",
+    "english": "when"
+  },
+  {
+    "chinese": "吗",
+    "traditional": "嗎",
+    "pinyin": "ma",
+    "english": "question particle"
+  },
+  {
+    "chinese": "今天",
+    "traditional": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today"
+  },
+  {
+    "chinese": "明天",
+    "traditional": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow"
+  },
+  {
+    "chinese": "昨天",
+    "traditional": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "yesterday"
+  },
+  {
+    "chinese": "现在",
+    "traditional": "現在",
+    "pinyin": "xiàn zài",
+    "english": "now"
+  },
+  {
+    "chinese": "早上",
+    "traditional": "早上",
+    "pinyin": "zǎo shàng",
+    "english": "morning"
+  },
+  {
+    "chinese": "中午",
+    "traditional": "中午",
+    "pinyin": "zhōng wǔ",
+    "english": "noon"
+  },
+  {
+    "chinese": "下午",
+    "traditional": "下午",
+    "pinyin": "xià wǔ",
+    "english": "afternoon"
+  },
+  {
+    "chinese": "晚上",
+    "traditional": "晚上",
+    "pinyin": "wǎn shàng",
+    "english": "evening"
+  },
+  {
+    "chinese": "年",
+    "traditional": "年",
+    "pinyin": "nián",
+    "english": "year"
+  },
+  {
+    "chinese": "月",
+    "traditional": "月",
+    "pinyin": "yuè",
+    "english": "month"
+  },
+  {
+    "chinese": "日",
+    "traditional": "日",
+    "pinyin": "rì",
+    "english": "day / sun"
+  },
+  {
+    "chinese": "星期",
+    "traditional": "星期",
+    "pinyin": "xīng qī",
+    "english": "week"
+  },
+  {
+    "chinese": "小时",
+    "traditional": "小時",
+    "pinyin": "xiǎo shí",
+    "english": "hour"
+  },
+  {
+    "chinese": "分钟",
+    "traditional": "分鐘",
+    "pinyin": "fēn zhōng",
+    "english": "minute"
+  },
+  {
+    "chinese": "点",
+    "traditional": "點",
+    "pinyin": "diǎn",
+    "english": "oclock"
+  },
+  {
+    "chinese": "家",
+    "traditional": "家",
+    "pinyin": "jiā",
+    "english": "home / family"
+  },
+  {
+    "chinese": "爸爸",
+    "traditional": "爸爸",
+    "pinyin": "bà ba",
+    "english": "father / dad"
+  },
+  {
+    "chinese": "妈妈",
+    "traditional": "媽媽",
+    "pinyin": "mā ma",
+    "english": "mother / mom"
+  },
+  {
+    "chinese": "哥哥",
+    "traditional": "哥哥",
+    "pinyin": "gē ge",
+    "english": "older brother"
+  },
+  {
+    "chinese": "姐姐",
+    "traditional": "姐姐",
+    "pinyin": "jiě jie",
+    "english": "older sister"
+  },
+  {
+    "chinese": "弟弟",
+    "traditional": "弟弟",
+    "pinyin": "dì di",
+    "english": "younger brother"
+  },
+  {
+    "chinese": "妹妹",
+    "traditional": "妹妹",
+    "pinyin": "mèi mei",
+    "english": "younger sister"
+  },
+  {
+    "chinese": "儿子",
+    "traditional": "兒子",
+    "pinyin": "ér zi",
+    "english": "son"
+  },
+  {
+    "chinese": "女儿",
+    "traditional": "女兒",
+    "pinyin": "nǚ ér",
+    "english": "daughter"
+  },
+  {
+    "chinese": "朋友",
+    "traditional": "朋友",
+    "pinyin": "péng yǒu",
+    "english": "friend"
+  },
+  {
+    "chinese": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "english": "water"
+  },
+  {
+    "chinese": "茶",
+    "traditional": "茶",
+    "pinyin": "chá",
+    "english": "tea"
+  },
+  {
+    "chinese": "咖啡",
+    "traditional": "咖啡",
+    "pinyin": "kā fēi",
+    "english": "coffee"
+  },
+  {
+    "chinese": "米饭",
+    "traditional": "米飯",
+    "pinyin": "mǐ fàn",
+    "english": "rice (cooked)"
+  },
+  {
+    "chinese": "面条",
+    "traditional": "麵條",
+    "pinyin": "miàn tiáo",
+    "english": "noodles"
+  },
+  {
+    "chinese": "饺子",
+    "traditional": "餃子",
+    "pinyin": "jiǎo zi",
+    "english": "dumplings"
+  },
+  {
+    "chinese": "肉",
+    "traditional": "肉",
+    "pinyin": "ròu",
+    "english": "meat"
+  },
+  {
+    "chinese": "鸡",
+    "traditional": "雞",
+    "pinyin": "jī",
+    "english": "chicken"
+  },
+  {
+    "chinese": "鱼",
+    "traditional": "魚",
+    "pinyin": "yú",
+    "english": "fish"
+  },
+  {
+    "chinese": "蔬菜",
+    "traditional": "蔬菜",
+    "pinyin": "shū cài",
+    "english": "vegetables"
+  },
+  {
+    "chinese": "水果",
+    "traditional": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english": "fruit"
+  },
+  {
+    "chinese": "苹果",
+    "traditional": "蘋果",
+    "pinyin": "píng guǒ",
+    "english": "apple"
+  },
+  {
+    "chinese": "菜",
+    "traditional": "菜",
+    "pinyin": "cài",
+    "english": "dish / vegetables"
+  },
+  {
+    "chinese": "饭",
+    "traditional": "飯",
+    "pinyin": "fàn",
+    "english": "meal / rice"
+  },
+  {
+    "chinese": "啤酒",
+    "traditional": "啤酒",
+    "pinyin": "pí jiǔ",
+    "english": "beer"
+  },
+  {
+    "chinese": "中国",
+    "traditional": "中國",
+    "pinyin": "zhōng guó",
+    "english": "China"
+  },
+  {
+    "chinese": "学校",
+    "traditional": "學校",
+    "pinyin": "xué xiào",
+    "english": "school"
+  },
+  {
+    "chinese": "医院",
+    "traditional": "醫院",
+    "pinyin": "yī yuàn",
+    "english": "hospital"
+  },
+  {
+    "chinese": "商店",
+    "traditional": "商店",
+    "pinyin": "shāng diàn",
+    "english": "shop / store"
+  },
+  {
+    "chinese": "饭店",
+    "traditional": "飯店",
+    "pinyin": "fàn diàn",
+    "english": "restaurant / hotel"
+  },
+  {
+    "chinese": "银行",
+    "traditional": "銀行",
+    "pinyin": "yín háng",
+    "english": "bank"
+  },
+  {
+    "chinese": "机场",
+    "traditional": "機場",
+    "pinyin": "jī chǎng",
+    "english": "airport"
+  },
+  {
+    "chinese": "车站",
+    "traditional": "車站",
+    "pinyin": "chē zhàn",
+    "english": "station"
+  },
+  {
+    "chinese": "公司",
+    "traditional": "公司",
+    "pinyin": "gōng sī",
+    "english": "company"
+  },
+  {
+    "chinese": "厕所",
+    "traditional": "廁所",
+    "pinyin": "cè suǒ",
+    "english": "toilet / bathroom"
+  },
+  {
+    "chinese": "大",
+    "traditional": "大",
+    "pinyin": "dà",
+    "english": "big / large"
+  },
+  {
+    "chinese": "小",
+    "traditional": "小",
+    "pinyin": "xiǎo",
+    "english": "small / little"
+  },
+  {
+    "chinese": "多",
+    "traditional": "多",
+    "pinyin": "duō",
+    "english": "many / much"
+  },
+  {
+    "chinese": "少",
+    "traditional": "少",
+    "pinyin": "shǎo",
+    "english": "few / little"
+  },
+  {
+    "chinese": "新",
+    "traditional": "新",
+    "pinyin": "xīn",
+    "english": "new"
+  },
+  {
+    "chinese": "旧",
+    "traditional": "舊",
+    "pinyin": "jiù",
+    "english": "old (things)"
+  },
+  {
+    "chinese": "热",
+    "traditional": "熱",
+    "pinyin": "rè",
+    "english": "hot"
+  },
+  {
+    "chinese": "冷",
+    "traditional": "冷",
+    "pinyin": "lěng",
+    "english": "cold"
+  },
+  {
+    "chinese": "快",
+    "traditional": "快",
+    "pinyin": "kuài",
+    "english": "fast / quick"
+  },
+  {
+    "chinese": "慢",
+    "traditional": "慢",
+    "pinyin": "màn",
+    "english": "slow"
+  },
+  {
+    "chinese": "贵",
+    "traditional": "貴",
+    "pinyin": "guì",
+    "english": "expensive"
+  },
+  {
+    "chinese": "便宜",
+    "traditional": "便宜",
+    "pinyin": "pián yí",
+    "english": "cheap"
+  },
+  {
+    "chinese": "漂亮",
+    "traditional": "漂亮",
+    "pinyin": "piào liàng",
+    "english": "beautiful / pretty"
+  },
+  {
+    "chinese": "高兴",
+    "traditional": "高興",
+    "pinyin": "gāo xìng",
+    "english": "happy"
+  },
+  {
+    "chinese": "忙",
+    "traditional": "忙",
+    "pinyin": "máng",
+    "english": "busy"
+  },
+  {
+    "chinese": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "english": "person / people"
+  },
+  {
+    "chinese": "名字",
+    "traditional": "名字",
+    "pinyin": "míng zì",
+    "english": "name"
+  },
+  {
+    "chinese": "电话",
+    "traditional": "電話",
+    "pinyin": "diàn huà",
+    "english": "telephone"
+  },
+  {
+    "chinese": "手机",
+    "traditional": "手機",
+    "pinyin": "shǒu jī",
+    "english": "mobile phone"
+  },
+  {
+    "chinese": "电脑",
+    "traditional": "電腦",
+    "pinyin": "diàn nǎo",
+    "english": "computer"
+  },
+  {
+    "chinese": "钱",
+    "traditional": "錢",
+    "pinyin": "qián",
+    "english": "money"
+  },
+  {
+    "chinese": "东西",
+    "traditional": "東西",
+    "pinyin": "dōng xī",
+    "english": "thing / stuff"
+  },
+  {
+    "chinese": "书",
+    "traditional": "書",
+    "pinyin": "shū",
+    "english": "book"
+  },
+  {
+    "chinese": "车",
+    "traditional": "車",
+    "pinyin": "chē",
+    "english": "car / vehicle"
+  },
+  {
+    "chinese": "飞机",
+    "traditional": "飛機",
+    "pinyin": "fēi jī",
+    "english": "airplane"
+  }
+]

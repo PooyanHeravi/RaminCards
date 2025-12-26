@@ -1,0 +1,156 @@
+{
+  "我": [
+    { "cn": "我是学生。", "pinyin": "Wǒ shì xuéshēng.", "en": "I am a student." }
+  ],
+  "你": [
+    { "cn": "你好吗？", "pinyin": "Nǐ hǎo ma?", "en": "How are you?" }
+  ],
+  "他": [
+    { "cn": "他是我的朋友。", "pinyin": "Tā shì wǒ de péngyou.", "en": "He is my friend." }
+  ],
+  "她": [
+    { "cn": "她很漂亮。", "pinyin": "Tā hěn piàoliang.", "en": "She is very beautiful." }
+  ],
+  "好": [
+    { "cn": "你好！", "pinyin": "Nǐ hǎo!", "en": "Hello!" },
+    { "cn": "这个很好。", "pinyin": "Zhège hěn hǎo.", "en": "This is very good." }
+  ],
+  "是": [
+    { "cn": "我是中国人。", "pinyin": "Wǒ shì Zhōngguó rén.", "en": "I am Chinese." }
+  ],
+  "不": [
+    { "cn": "我不知道。", "pinyin": "Wǒ bù zhīdào.", "en": "I don't know." }
+  ],
+  "大": [
+    { "cn": "这个房子很大。", "pinyin": "Zhège fángzi hěn dà.", "en": "This house is very big." }
+  ],
+  "小": [
+    { "cn": "我有一只小狗。", "pinyin": "Wǒ yǒu yī zhī xiǎo gǒu.", "en": "I have a small dog." }
+  ],
+  "中": [
+    { "cn": "我在学中文。", "pinyin": "Wǒ zài xué Zhōngwén.", "en": "I am learning Chinese." }
+  ],
+  "国": [
+    { "cn": "中国很大。", "pinyin": "Zhōngguó hěn dà.", "en": "China is very big." }
+  ],
+  "人": [
+    { "cn": "他是好人。", "pinyin": "Tā shì hǎo rén.", "en": "He is a good person." }
+  ],
+  "一": [
+    { "cn": "我要一个苹果。", "pinyin": "Wǒ yào yī gè píngguǒ.", "en": "I want an apple." }
+  ],
+  "二": [
+    { "cn": "我有二个姐姐。", "pinyin": "Wǒ yǒu èr gè jiějie.", "en": "I have two older sisters." }
+  ],
+  "三": [
+    { "cn": "三加三等于六。", "pinyin": "Sān jiā sān děngyú liù.", "en": "Three plus three equals six." }
+  ],
+  "四": [
+    { "cn": "一年有四个季节。", "pinyin": "Yī nián yǒu sì gè jìjié.", "en": "A year has four seasons." }
+  ],
+  "五": [
+    { "cn": "我每天工作五小时。", "pinyin": "Wǒ měitiān gōngzuò wǔ xiǎoshí.", "en": "I work five hours every day." }
+  ],
+  "六": [
+    { "cn": "今天是六月六号。", "pinyin": "Jīntiān shì liù yuè liù hào.", "en": "Today is June 6th." }
+  ],
+  "七": [
+    { "cn": "一周有七天。", "pinyin": "Yī zhōu yǒu qī tiān.", "en": "A week has seven days." }
+  ],
+  "八": [
+    { "cn": "他八岁了。", "pinyin": "Tā bā suì le.", "en": "He is eight years old." }
+  ],
+  "九": [
+    { "cn": "九月开学。", "pinyin": "Jiǔ yuè kāixué.", "en": "School starts in September." }
+  ],
+  "十": [
+    { "cn": "我有十块钱。", "pinyin": "Wǒ yǒu shí kuài qián.", "en": "I have ten yuan." }
+  ],
+  "今天": [
+    { "cn": "今天天气很好。", "pinyin": "Jīntiān tiānqì hěn hǎo.", "en": "The weather is nice today." }
+  ],
+  "明天": [
+    { "cn": "明天见！", "pinyin": "Míngtiān jiàn!", "en": "See you tomorrow!" }
+  ],
+  "昨天": [
+    { "cn": "昨天我去了北京。", "pinyin": "Zuótiān wǒ qù le Běijīng.", "en": "I went to Beijing yesterday." }
+  ],
+  "吃": [
+    { "cn": "我们去吃饭吧。", "pinyin": "Wǒmen qù chīfàn ba.", "en": "Let's go eat." }
+  ],
+  "喝": [
+    { "cn": "你想喝什么？", "pinyin": "Nǐ xiǎng hē shénme?", "en": "What would you like to drink?" }
+  ],
+  "水": [
+    { "cn": "请给我一杯水。", "pinyin": "Qǐng gěi wǒ yī bēi shuǐ.", "en": "Please give me a glass of water." }
+  ],
+  "茶": [
+    { "cn": "中国茶很有名。", "pinyin": "Zhōngguó chá hěn yǒumíng.", "en": "Chinese tea is very famous." }
+  ],
+  "爱": [
+    { "cn": "我爱你。", "pinyin": "Wǒ ài nǐ.", "en": "I love you." }
+  ],
+  "家": [
+    { "cn": "我想回家。", "pinyin": "Wǒ xiǎng huí jiā.", "en": "I want to go home." }
+  ],
+  "学": [
+    { "cn": "我在学中文。", "pinyin": "Wǒ zài xué Zhōngwén.", "en": "I am studying Chinese." }
+  ],
+  "工作": [
+    { "cn": "你在哪里工作？", "pinyin": "Nǐ zài nǎlǐ gōngzuò?", "en": "Where do you work?" }
+  ],
+  "朋友": [
+    { "cn": "他是我最好的朋友。", "pinyin": "Tā shì wǒ zuì hǎo de péngyou.", "en": "He is my best friend." }
+  ],
+  "谢谢": [
+    { "cn": "谢谢你的帮助。", "pinyin": "Xièxiè nǐ de bāngzhù.", "en": "Thank you for your help." }
+  ],
+  "对不起": [
+    { "cn": "对不起，我来晚了。", "pinyin": "Duìbuqǐ, wǒ lái wǎn le.", "en": "Sorry, I'm late." }
+  ],
+  "没关系": [
+    { "cn": "没关系，不用担心。", "pinyin": "Méi guānxi, bùyòng dānxīn.", "en": "It's okay, don't worry." }
+  ],
+  "再见": [
+    { "cn": "再见，明天见！", "pinyin": "Zàijiàn, míngtiān jiàn!", "en": "Goodbye, see you tomorrow!" }
+  ],
+  "请": [
+    { "cn": "请坐。", "pinyin": "Qǐng zuò.", "en": "Please sit down." }
+  ],
+  "看": [
+    { "cn": "我喜欢看电影。", "pinyin": "Wǒ xǐhuān kàn diànyǐng.", "en": "I like watching movies." }
+  ],
+  "听": [
+    { "cn": "我喜欢听音乐。", "pinyin": "Wǒ xǐhuān tīng yīnyuè.", "en": "I like listening to music." }
+  ],
+  "说": [
+    { "cn": "你会说中文吗？", "pinyin": "Nǐ huì shuō Zhōngwén ma?", "en": "Can you speak Chinese?" }
+  ],
+  "读": [
+    { "cn": "我每天读书。", "pinyin": "Wǒ měitiān dúshū.", "en": "I read every day." }
+  ],
+  "写": [
+    { "cn": "请写你的名字。", "pinyin": "Qǐng xiě nǐ de míngzi.", "en": "Please write your name." }
+  ],
+  "买": [
+    { "cn": "我想买这个。", "pinyin": "Wǒ xiǎng mǎi zhège.", "en": "I want to buy this." }
+  ],
+  "钱": [
+    { "cn": "这个多少钱？", "pinyin": "Zhège duōshǎo qián?", "en": "How much is this?" }
+  ],
+  "时间": [
+    { "cn": "现在什么时间？", "pinyin": "Xiànzài shénme shíjiān?", "en": "What time is it now?" }
+  ],
+  "电话": [
+    { "cn": "你的电话号码是什么？", "pinyin": "Nǐ de diànhuà hàomǎ shì shénme?", "en": "What is your phone number?" }
+  ],
+  "名字": [
+    { "cn": "你叫什么名字？", "pinyin": "Nǐ jiào shénme míngzi?", "en": "What is your name?" }
+  ],
+  "漂亮": [
+    { "cn": "这个地方很漂亮。", "pinyin": "Zhège dìfang hěn piàoliang.", "en": "This place is very beautiful." }
+  ],
+  "高兴": [
+    { "cn": "很高兴认识你。", "pinyin": "Hěn gāoxìng rènshi nǐ.", "en": "Nice to meet you." }
+  ]
+}
